@@ -13,7 +13,7 @@
 
 **Deadline:** 2 days from when you receive the assignment
 
-**Estimated Time:** 3-4 hours of focussed work
+**Estimated Time:** 3-4 hours of focused work
 
 **Tech Stack Requirements:** python
 
@@ -49,7 +49,7 @@ You can find a pdf version of this book in this repo - `the_hard_thing_about_har
 - The end output should be a python script where a user can ask a question about the things discussed in
   the book and the chatbot responds with accurate answers.
 
-- Each response should include references from the book. it should provide specific excerpts along
+- Each response should include references from the book. It should provide specific excerpts along
   with their page numbers that the chatbot used as reference.
 
 - It should support multi-turn conversations.
