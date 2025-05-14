@@ -24,7 +24,7 @@ use standard python libraries for your implementation.**
 
 - You can use other python libraries like pydantic as part of your code.
 
-- You can only use external APIs for `standard LLM calls` (directly use the APIs from the labs),
+- You can only use external APIs for `standard LLM calls` (directly use the APIs from the model labs),
   `embedding generation`, `vector stores`, `evals` and `logging / experiment tracking`.
 
 - You will be evaluated on both the quality of the technical implementation as well as your ability to
